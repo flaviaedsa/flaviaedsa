@@ -1,4 +1,4 @@
-Hi 👋, I'm Flávia de Souza Batista
+Hi 👋, I'm Flávia Batista
 
 🔭 I’m currently working with Robot framework, mobile tests
 
